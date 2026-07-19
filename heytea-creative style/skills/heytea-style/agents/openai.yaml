@@ -1,0 +1,4 @@
+interface:
+  display_name: "童趣食品手绘宣传图"
+  short_description: "纯白底真实食品、高覆盖涂鸦与固定F/I童趣字体双版"
+  default_prompt: "Use $heytea-style to turn this food photo into a pure-white 9:16 doodle poster and generate the fixed F/coarse-crayon and I/fine-hard-pencil Chinese title variants."
